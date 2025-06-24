@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+em {
+   font-style: italic; 
+}
+
+strong {
+    font-weight: bold;
+}
+
+code {
+    color: #944721;
+    background-color: #faf5e3;
+    font-family: Consolas, monospace;
+}
+
+pre code {
+    display: block;
+    background-color: #fff1dd;
+    font-family: Consolas, monospace;
+}
+
+.tags {
+
+    font-size: 0.95em;
+}
+.tags span {
+    background-color: #b8fff9;
+    color: #30c2a9;
+    padding: 4px 8px;
+    display: inline-block;
+}
+
+.tags strong {
+    font-weight: bold;
+}
